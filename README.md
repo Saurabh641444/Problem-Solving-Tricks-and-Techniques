@@ -4,4 +4,5 @@
 ## 2. If we have to find subarray whose sum is zero then 
 ==> if summmation of subarray gets repeat then we can say that there exist 0 summation pair. Prefix some property
 ## 3. All perfect squares have (2n+1) number of factors.
+## 4. For most significant bit(MSB) use formula Math.floor(Math.log(11)/Math.log(2)).
 
